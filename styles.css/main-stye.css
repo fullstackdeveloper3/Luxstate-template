@@ -545,7 +545,7 @@ section .info div span:last-child {
   padding-bottom: var(--padding-bottom);
 }
 .match h2{
-  font-size: 2.5rem;
+  font-size: 2rem;
   color: var(--text-color);
   margin: 0;
 }
@@ -559,8 +559,8 @@ section .info div span:last-child {
 @media (max-width: 767px) {
   .match .how > p,
   .match .services p {
-    width: 350px;
-    font-size: 0.5rem;
+    width: 300px;
+    font-size: 0.9rem;
   }
 }
 .match .content {
@@ -732,7 +732,7 @@ section .info div span:last-child {
   background-color: var(--background-color);
 }
 .meet h2 {
-  font-size: 2.5rem;
+  font-size: 2rem;
   color: var(--text-color);
   margin: 0;
 }
@@ -744,8 +744,8 @@ section .info div span:last-child {
 }
 @media (max-width: 767px) {
   .meet p {
-    width: 350px;
-    font-size: 0.5rem;
+    width: 300px;
+    font-size: 0.9rem;
   }
 }
 .meet .boxes {
