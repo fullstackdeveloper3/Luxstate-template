@@ -125,7 +125,7 @@ header nav li a {
 }
 @media (max-width: 991px) {
   header nav li a {
-    font-size: 10px;
+    font-size: 1rem;
   }
 }
 header nav li a::before {
